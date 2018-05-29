@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "75021950040",
+    "firebase_url": "https://examen3-138a4.firebaseio.com",
+    "project_id": "examen3-138a4",
+    "storage_bucket": "examen3-138a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75021950040:android:806302382d4dd633",
+        "android_client_info": {
+          "package_name": "com.holamundo.materialpersonas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75021950040-24023prrkkhieb7pbktaop3gpre354ur.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "75021950040-24023prrkkhieb7pbktaop3gpre354ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJiZXk-e910ueBZkhq9JTKuKU6ZZj0j-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
